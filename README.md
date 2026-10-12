@@ -6,7 +6,7 @@
 
 <br>
 
-![Kelapa Sawit](https://gapki.id/id/wikisawit/dir-site/uploads/2026/01/palmoil_sawit_indonesia_wiki_.jpg)
+![Kelapa Sawit](kelapa_sawit.jpg)
 
 ## Karakteristik Morfologi dan Fisiologi Pohon Kelapa Sawit
 | Bagian Tumbuhan | Penjelasan |
